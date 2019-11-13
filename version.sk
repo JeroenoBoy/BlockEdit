@@ -2,8 +2,8 @@ ver;
 ver=1.0.1
 ||
 1.0.0;
-desc=Base version
-link=https://forums.skunity.com/resources/blockedit.890/history;
+desc=Base version;
+link=https://forums.skunity.com/resources/blockedit.890/history
 ||
 1.0.1;
 desc=Updated error message;
