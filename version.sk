@@ -8,12 +8,10 @@ desc:Base version
 desc:Updated error message;
 /:Removed unnecesary code on fill;
 /:Removed unnecesary code on replace;
-/:Changed error message
+/:Error message
 ||
 1.0.2;
 desc:Update detector;
 +:Update detection;
 +:Notify when updated;
-+:Removed
-
-
+/:Update message
