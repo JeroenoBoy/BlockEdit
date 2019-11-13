@@ -6,8 +6,8 @@ desc:Base version
 ||
 1.0.1;
 desc:Updated error message;
-/:Removed unnecesary code on fill
-/:Removed unnecesary code on replace
+/:Removed unnecesary code on fill;
+/:Removed unnecesary code on replace;
 /:Changed error message
 ||
 1.0.2;
