@@ -17,3 +17,5 @@ desc=Update detector;
 link=https://forums.skunity.com/resources/blockedit.890/history;
 +=Update detection;
 +=Notify when updated
+/=Fixed /be help issues
+/=Fixed /be schem help issues (page is temporary dissabled)
