@@ -15,7 +15,9 @@ link=https://forums.skunity.com/resources/blockedit.890/history;
 1.0.2;
 desc=Update detector;
 link=https://forums.skunity.com/resources/blockedit.890/history;
+cfu=true;
 +=Update detection;
 +=Notify when updated;
 /=Fixed /be help issues;
-/=Fixed /be schem help issues (page is temporary dissabled)
+/=Fixed /be schem help issues (page is temporary dissabled);
+/=Changed 
