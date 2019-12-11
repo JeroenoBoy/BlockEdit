@@ -1,5 +1,5 @@
 ver;
-ver=1.0.2
+ver=1.0.3
 ||
 1.0.0;
 desc=Base version;
@@ -22,3 +22,9 @@ cfu=true;
 /=Fixed /be help issues;
 /=Fixed /be schem help issues (page is temporary dissabled);
 /=Changed the Error messages
+||
+1.0.3;
+desc=1.8 bug;
+link=https://forums.skunity.com/resources/blockedit.890/history;
+cfu=false;
+/=Changed the BlockWand so it works on 1.8
